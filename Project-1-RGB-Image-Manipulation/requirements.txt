@@ -1,0 +1,5 @@
+# Required Libraries for RGB Image Manipulation Project
+
+numpy       # Used for numerical operations and image array manipulation
+Pillow      # Used to open, load and process images
+matplotlib  # Used to display original and modified images
