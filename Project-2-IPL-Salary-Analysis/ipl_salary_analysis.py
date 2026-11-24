@@ -1,6 +1,4 @@
-
-# Copy the data from ipl_salary_data shared under feature/ipl-analysis
-
+###################----------Data----------##############################
 # Seasons - IPL years displayed on the X-axis
 seasons = ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"]
 
@@ -19,6 +17,7 @@ dhoni_salary = [0,0,4171200,4484040,4796880,6053663,15506632,16669630,17832627,1
 kohli_salary = [0,0,0,4822800,5184480,5546160,6993708,16402500,17632688,18862875]
 sky_salary = [3031920,3841443,13041250,14410581,15779912,14200000,15691000,17182000,18673000,15000000]
 
+###################----------Data----------##############################
 
 # Import the Matplotlib library to create graphs and charts
 import matplotlib.pyplot as plt
